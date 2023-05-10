@@ -12,7 +12,7 @@ Ritt, [A branch-and-bound algorithm with cyclic best-first search for the permut
 
 * Table III: Performance in proving optimality in the instances of Taillard (1993): [LOMPEN](data/t3-lompen.csv), [DFS/alt](data/t3-dfs-alt.csv), [DFS/dyn](data/t3-dfs-dyn.csv), [CBFS](data/t3-cbfs.csv).
 * Table IV: Overall performance in the instances of Taillard (1993): [LOMPEN](data/t4-lompen.csv), [DFS/alt](data/t4-dfs-alt.csv), [DFS/dyn](data/t4-dfs-dyn.csv), [CFBS](data/t4-cbfs.csv).
-* Table V: Comparison of CBFS to the results as reported in the literature on the instances of Taillard (1993): [LOMPEN](data/Companys,Mateo%20(2007).csv), [DFS/alt](data/Ladhari,Haouari%20(2005)-Table%202.dat), [CBFS](data/t5-cbfs.csv).
+* Table V: Comparison of CBFS to the results as reported in the literature on the instances of Taillard (1993): [LOMPEN](data/Companys,Mateo%20(2007).csv), [DFS/alt](data/Ladhari,Haouari%20(2005)-Table%202.csv), [CBFS](data/t5-cbfs.csv).
 
 ## How to cite
 
